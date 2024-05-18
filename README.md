@@ -6,4 +6,6 @@ Each file contains a leetCode dsa question, solved in swift with
   1. the link of the video/youtube tutorial in the first line of the each file as the comment
   2. the leetcode link to that problem in the second line
 
+Subscribe to the channel for more ios interesting stuff https://www.youtube.com/c/CODEEFFECTIVELY
+
 Happy Coding !!!
