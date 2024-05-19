@@ -1,4 +1,8 @@
+// video tutorial link: https://youtu.be/CdBdDzo2lJQ
+//Probem link: https://leetcode.com/problems/contains-duplicate/
+
 import Foundation
+
 class Solution {
     func containsDuplicate(_ nums: [Int]) -> Bool {
         var set = Set<Int>()

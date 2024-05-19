@@ -1,4 +1,6 @@
 //: [Previous](@previous)
+// tutorial link: https://youtu.be/UJlMtaYIKJA
+//problem link: https://leetcode.com/problems/contains-duplicate/
 
 import Foundation
 
