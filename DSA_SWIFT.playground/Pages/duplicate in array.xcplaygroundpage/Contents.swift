@@ -1,5 +1,5 @@
 // video tutorial link: https://youtu.be/CdBdDzo2lJQ
-//Probem link: https://leetcode.com/problems/contains-duplicate/
+// Probem link: https://leetcode.com/problems/contains-duplicate/
 
 import Foundation
 
