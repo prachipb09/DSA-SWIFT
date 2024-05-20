@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
     <pages>
-        <page name='duplicate in array'/>
-        <page name='two sum'/>
-        <page name='Product of Array Except Self '/>
         <page name='Container with most water #11'/>
+        <page name='contains duplicate in array #217'/>
+        <page name='Product of Array Except Self #238'/>
+        <page name='two sum #1'/>
+        <page name='Best time to buy and sell stock #121'/>
     </pages>
 </playground>
