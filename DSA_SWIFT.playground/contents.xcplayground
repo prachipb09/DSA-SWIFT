@@ -7,5 +7,6 @@
         <page name='Valid Sudoku #36'/>
         <page name='two sum #1'/>
         <page name='Best time to buy and sell stock #121'/>
+        <page name='valid palindrome #125'/>
     </pages>
 </playground>
